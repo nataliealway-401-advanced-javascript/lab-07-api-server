@@ -2,6 +2,9 @@
 
 const DataModel = require('./memory-data-model');
 
+/**
+ * @class
+ */
 class Categories extends DataModel {
   constructor() {
     super();
